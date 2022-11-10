@@ -7,4 +7,6 @@
     -https://rugdoc.io/
     -https://rekt.news/
     -https://solidity-by-example.org/
-    
+    -https://goerli-faucet.pk910.de/
+    -https://secureum.substack.com/
+    -https://tenderly.co/
