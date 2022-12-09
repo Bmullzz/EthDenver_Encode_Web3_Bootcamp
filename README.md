@@ -10,3 +10,14 @@
     -https://goerli-faucet.pk910.de/
     -https://secureum.substack.com/
     -https://tenderly.co/
+    -https://speedrunethereum.com/
+    -https://ethernaut.openzeppelin.com/
+    -https://docs.certora.com/en/latest/docs/whitepaper/index.html
+    -https://eip2535diamonds.substack.com/p/smart-contract-gas-optimization-with
+    -https://cryptoguide.dev/posts/solidity-gas-optimizations-guide/
+    -https://github.com/ExtropyIO/SolidityBootcamp/tree/main/Exercises/Gas
+    -https://newsletter.blockthreat.io/
+    -https://cryptocurrencyjobs.co/engineering/
+    -https://www.alchemy.com/overviews/solidity-jobs
+    -https://web3work.co/web3-defi-jobs
+    -https://academy.hashex.org/?_ga=2.74996498.1079787428.1669053937-870781949.1669053937#rec478696699
