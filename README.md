@@ -22,4 +22,4 @@
     -https://www.alchemy.com/overviews/solidity-jobs
     -https://web3work.co/web3-defi-jobs
     -https://academy.hashex.org/?_ga=2.74996498.1079787428.1669053937-870781949.1669053937#rec478696699
-    -
+    -https://flashbots.notion.site/Flashbots-reading-46923260c05e4059b072c4aebad54f12
